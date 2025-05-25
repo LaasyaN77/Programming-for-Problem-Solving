@@ -1,6 +1,6 @@
 Hey there! 👋 This is my first coding collection, made for anyone getting started with C programming. 
 
-What's Inside?
+Inside:    
 
 ✳️ Basic C programs                                                                                                                                                                               
   📌 Focused logic-building examples to strengthen core understanding  
